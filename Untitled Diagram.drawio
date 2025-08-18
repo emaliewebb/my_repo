@@ -160,6 +160,11 @@
         <mxCell id="E0smNcjxJWlrCGV6oc7f-59" value="4 Cores" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="313" width="60" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="Link" link="https://www.draw.io" id="E0smNcjxJWlrCGV6oc7f-60">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="30" y="440" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
